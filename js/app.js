@@ -1,12 +1,12 @@
 //alert()//
-let resultado=0;/**variable con scope global*/
-/*String, int , bool, undefine,array object, null*/
+/*let resultado=0;/**variable con scope global
+String, int , bool, undefine,array object, null
 console.log(suma());
 console.log(resultado);
 function suma(){
     resultado = 10; 
     return resultado;
-}
+}*/
 let nombre = "Luis";
 let apellido = "Navas";
 let edad = 48;
